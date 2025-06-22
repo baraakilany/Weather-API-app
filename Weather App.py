@@ -40,7 +40,7 @@ class WeatherApp(QWidget):
         UI initialization, setting up layouts,
         widgets, and styling.
         """
-        self.setWindowTitle("Weather Forecast")
+        self.setWindowTitle("Weather API App")
         self.setMinimumSize(480, 680)
 
         # Main vertical layout for overall structure
